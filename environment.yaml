@@ -1,4 +1,4 @@
-name: jupyter_dask
+name: hdcrs
 
 channels:
   - conda-forge
@@ -17,6 +17,7 @@ dependencies:
   - h5netcdf
   - zarr
   - pip
+  - shapely
   - pip:
     - stac2dcache
 
