@@ -17,10 +17,13 @@ dependencies:
   - h5netcdf
   - zarr
   - shapely
+  - fsspec
+  - panel
   - pystac
   - pystac-client
   - python-graphviz
   - pip
   - pip:
+    - dcachefs>=0.1.7
     - stac2dcache
 
