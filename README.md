@@ -1,6 +1,8 @@
-# RS-DAT Summer School, Iceland
+# Remote Sensing Data Analysis using HTC/HPC Systems
 
-This repository contains material for Remote-Sensing Deployable Analysis environmenT (RS-DAT) session to be presented at the summer school at the University of Iceland, Reykjavik on 2023-05-31. The notebooks in the [`examples` directory](./notebooks), will be run on the [Spider Data Processing infrastructure](http://doc.spider.surfsara.nl/en/latest/Pages/getting_started.html) at SURF using the setup described [in this repository](https://github.com/RS-DAT/JupyterDaskOnSLURM).
+This repository contains material for the [Remote Sensing Data Analysis using HTC/HPC Systems](https://www.hdc-rs.com/summer-schools/2023/lecture-for-topic-2) session to be presented at the [HDCRS summer school](https://www.hdc-rs.com) at the University of Iceland, Reykjavik on 2023-05-31. The notebooks in the [`notebooks` directory](./notebooks) will be run on the [Spider Data Processing infrastructure](http://doc.spider.surfsara.nl/en/latest/Pages/getting_started.html) at [SURF](https://www.surf.nl) using the setup described [in this repository](https://github.com/RS-DAT/JupyterDaskOnSLURM).
+
+See the [Setup document](./setup.md) for the local system requirements and installation instructions.
 
 ## Links & Credits
 
