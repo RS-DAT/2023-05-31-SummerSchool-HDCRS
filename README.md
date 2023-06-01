@@ -6,7 +6,7 @@ The notebooks in the [`code-along-notebooks` directory](./code-along-notebooks) 
 
 See the [Setup document](./setup.md) for the local system requirements and installation instructions.
 
-This repository also contains the [presentation slides](files/HDCRS_NLeSC_morning.pdf) and a copy of the [collaborative document](files/Collaborative\ Document.md) employed during the course. 
+This repository also contains the [presentation slides](files/HDCRS_NLeSC_morning.pdf) and a copy of the [collaborative document](files/CollaborativeDocument.md) employed during the course. 
 
 ## Links & Credits
 
