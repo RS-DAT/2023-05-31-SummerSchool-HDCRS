@@ -6,7 +6,7 @@ The notebooks in the [`code-along-notebooks` directory](https://github.com/RS-DA
 
 See the [Setup document](https://github.com/RS-DAT/2023-05-31-SummerSchool-HDCRS/blob/main/setup.md) for the local system requirements and installation instructions.
 
-This repository also contains the [presentation slides](files/HDCRS_NLeSC_morning.pdf) and a copy of the [collaborative document](files/CollaborativeDocument.md) employed during the course. 
+This repository also contains the [presentation slides](https://github.com/RS-DAT/2023-05-31-SummerSchool-HDCRS/blob/main/files/HDCRS_NLeSC_morning.pdf) and a copy of the [collaborative document](https://github.com/RS-DAT/2023-05-31-SummerSchool-HDCRS/blob/main/files/CollaborativeDocument.md) employed during the course. 
 
 ## Links & Credits
 
